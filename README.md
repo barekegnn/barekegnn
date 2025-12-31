@@ -28,6 +28,36 @@
 - **Role:** Full-stack developer
 - **Highlights:** Built a robust platform for project management, integrating modern frameworks and best practices.
 
+🚀 ###Featured Project: HU FRESHMAN — Progressive Web App (PWA)
+
+HU FRESHMAN is an all-in-one Progressive Web App designed to support Haramaya University freshman students by centralizing academic resources and exam preparation tools into a single platform.
+
+🎯 ###Project Objective
+
+To help freshman students improve academic performance by providing structured tutorials, real exam materials, and interactive preparation tools in an accessible web-based application.
+
+🛠️ What We Built
+
+-Developed a Progressive Web App (PWA) accessible on both mobile and desktop
+
+-Implemented course-based learning content tailored for HU students
+
+-Integrated past exam materials (Mid, Final & COC: 2013–2017)
+
+-Built real-time mock exam functionality for exam readiness
+
+-Added AI-powered study assistance to support on-demand learning
+
+-Designed the app to be simple, fast, and student-friendly
+
+👥 Target Users
+
+Natural & Social Science freshman students at Haramaya University
+
+🔗 Live Demo
+
+👉 https://hu-freshman.vercel.app/?refresh=1
+
 ### Haramaya University Club Management System
 - **Stack:** MySQL Database
 - **Role:** System Analyst & Developer
