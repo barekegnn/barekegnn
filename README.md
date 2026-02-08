@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Barekegn Asefa</h1>
-<h3 align="center">Software Engineer | Junior MERN Stack Developer</h3>
+<h3 align="center">Software Engineer |  MERN Stack Developer</h3>
 <p align="center">
   <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif" alt="coding" width="300"/>
 </p>
