@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 
-- 👨‍💻 I’m a software engineer and junior MERN stack developer.
+- 👨‍💻 I’m a software engineer and MERN stack developer.
 - 🌱 I work with JavaScript, React, Node.js, Next.js, and databases like MySQL & PostgreSQL.
 - 🛠️ I thrive on transforming ideas into reality through technology and continuous learning.
 - 🤝 I love collaborating on real-world impactful projects.
@@ -27,6 +27,7 @@
 - **Stack:** Next.js (with TypeScript), Node.js, PostgreSQL (with Prisma)
 - **Role:** Full-stack developer
 - **Highlights:** Built a robust platform for project management, integrating modern frameworks and best practices.
+- 🔗 Live Demo(https://mint-pms.vercel.app/)
 
 🚀 ###Featured Project: HU FRESHMAN — Progressive Web App (PWA)
 
