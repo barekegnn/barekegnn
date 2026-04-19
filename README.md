@@ -21,48 +21,68 @@
 
 ---
 
-## 🏆 Meaningful Projects
+ 🏆 Meaningful Projects
 
-### Ethiopia Ministry of Innovation and Technology – Project Management System
+ Ethiopia Ministry of Innovation and Technology – Project Management System
 - **Stack:** Next.js (with TypeScript), Node.js, PostgreSQL (with Prisma)
 - **Role:** Full-stack developer
 - **Highlights:** Built a robust platform for project management, integrating modern frameworks and best practices.
-- 🔗 Live Demo(https://mint-pms.vercel.app/)
+- 🔗 Live Demo: 👉 https://mint-pms.vercel.app/
 
 🚀 ###Featured Project: HU FRESHMAN — Progressive Web App (PWA)
 
 HU FRESHMAN is an all-in-one Progressive Web App designed to support Haramaya University freshman students by centralizing academic resources and exam preparation tools into a single platform.
 
 🎯 ###Project Objective
-
 To help freshman students improve academic performance by providing structured tutorials, real exam materials, and interactive preparation tools in an accessible web-based application.
 
 🛠️ What We Built
-
 -Developed a Progressive Web App (PWA) accessible on both mobile and desktop
-
 -Implemented course-based learning content tailored for HU students
-
 -Integrated past exam materials (Mid, Final & COC: 2013–2017)
-
 -Built real-time mock exam functionality for exam readiness
-
 -Added AI-powered study assistance to support on-demand learning
-
 -Designed the app to be simple, fast, and student-friendly
 
 👥 Target Users
-
 Natural & Social Science freshman students at Haramaya University
 
-🔗 Live Demo
+🔗 Live Demo: 👉 https://hu-freshman.vercel.app/?refresh=1
 
-👉 https://hu-freshman.vercel.app/?refresh=1
 
-### Haramaya University Club Management System
-- **Stack:** MySQL Database
-- **Role:** System Analyst & Developer
-- **Highlights:** Led requirements gathering, entity-relationship modeling, and database normalization to create an efficient club management solution.
+SHOPE-VERSE - FULL STACK E-COMMERCE PLATFORM
+
+PROBLEM CONTEXT
+Need to demonstrate full-stack e-commerce capabilities including payment processing, inventory management, and admin controls. Required building a production-ready platform that handles real transactions securely.
+
+OUTCOME & IMPACT
+Fully functional e-commerce platform deployed on Vercel with Stripe test mode integration. Demonstrates complete transaction flow from product browsing to payment confirmation, with admin panel for product and order management.
+
+ENGINEERING CHALLENGES
+Implementing secure payment processing with Stripe API integration
+Managing real-time inventory synchronization across concurrent transactions
+Building responsive UI that works seamlessly across all device sizes
+Handling edge cases in checkout flow (payment failures, inventory conflicts)
+
+🔗 Live Demo: 👉 https://shop-verse-brown.vercel.app/
+
+
+HU CONNECT Community Q&A Knowledge System
+
+PROBLEM CONTEXT
+Haramaya University freshers struggled to find trustworthy guidance on university life, academics, and campus navigation. Information was scattered across disorganized Telegram groups, making it difficult for new students to get reliable answers from experienced seniors. The knowledge gap between freshers and seniors created unnecessary confusion and anxiety during the critical transition period.
+
+OUTCOME & IMPACT
+Platform successfully bridges the knowledge gap with 2000+ active students and 5000+ peer-verified answers. Average response time of 2 hours ensures freshers get timely guidance. Reputation system identifies trusted contributors, and 90% of questions receive at least one quality answer. Real-time notifications keep the community engaged and responsive.
+
+ENGINEERING CHALLENGES
+Designing reputation algorithm that accurately reflects contribution quality
+Building scalable real-time notification system for thousands of users
+Implementing effective spam prevention and content quality controls
+Balancing moderation efficiency with community self-governance
+
+🔗 Live Demo: 👉 https://hu-connect.vercel.app/
+
 
 ---
 
