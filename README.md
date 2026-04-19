@@ -18,23 +18,15 @@
 ---
 
 <!-- PROFILE SUMMARY -->
-<table>
-  <tr>
-    <td width="50%">
-      
-- 🌍 <b>Location:</b> Ethiopia  
-- 💻 <b>Passion:</b> Solving meaningful problems with technology & AI  
-- 🏋️ <b>Personal Interests:</b> Exercise, reading, socializing
+<p align="center">
+  <img src="https://img.shields.io/badge/Location-Ethiopia-1589F0?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
+  <img src="https://img.shields.io/badge/Passion-Tech%20%26%20AI%20Innovation-ff8c00?style=for-the-badge&logo=code&logoColor=white" alt="Passion"/>
+  <img src="https://img.shields.io/badge/Interests-Exercise%20%7C%20Reading%20%7C%20Socializing-00bb7e?style=for-the-badge&logo=book&logoColor=white" alt="Interests"/>
+</p>
 
-    </td>
-    <td width="50%">
-      
-```diff
-+ Transforming ideas into real-world solutions through coding +
-```
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=350&center=true&vCenter=true&width=600&lines=Transforming+ideas+into+real-world+solutions+through+code!;Let%27s+build+a+better+future+with+technology." alt="Typing SVG"/>
+</p>
 
 ---
 
