@@ -1,7 +1,7 @@
 <!-- ELITE DEVELOPER PROFILE -->
 <div align="center">
 
-![Profile Banner](https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif)
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif" alt="Profile Banner" width="200"/>
 
 # 👋 Barekegn Asefa
 ### 🚀 Full-Stack Developer | MERN Specialist | Tech Innovator
