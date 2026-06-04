@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=350&center=true&vCenter=true&width=600&lines=Transforming+ideas+into+real-world+solutions+through+code!;Let%27s+build+a+better+future+with+technology." alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=350&center=true&vCenter=true&width=600&lines=Transforming+ideas+into+real-world+solutions+through+code!;Let%27s+build[...]
 </p>
 
 ---
@@ -74,6 +74,15 @@
 
 ---
 
+### RAS HOTEL – Hotel Booking & Management System
+> <b>Purpose:</b> Modern hotel management and booking platform with TypeScript  
+> <b>Tech Stack:</b> TypeScript, React, Node.js  
+> <b>Features:</b> Room booking, property management, responsive design  
+> <b>Repository:</b> [github.com/barekegnn/Ras-hotel](https://github.com/barekegnn/Ras-hotel)  
+> <b>Live Demo:</b> [ras-hotel-two.vercel.app](https://ras-hotel-two.vercel.app)
+
+---
+
 ## 🛠️ Languages & Tools
 
 <p align="center">
@@ -115,4 +124,4 @@
 
 ---
 
-<p align="center"><b>“Solving real-world problems with code is my passion.<br>Let's build a better future together!”</b></p>
+<p align="center"><b>"Solving real-world problems with code is my passion.<br>Let's build a better future together!"</b></p>
