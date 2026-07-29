@@ -7,7 +7,7 @@
 ### 🚀 Full-Stack Developer | MERN Specialist | Tech Innovator
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/barekegn-asefa-346b46247)
-[![Portfolio](https://img.shields.io/badge/Portfolio-24292F?logo=vercel&logoColor=white&style=for-the-badge)]((https://baredev.vercel.app/))
+[![Portfolio](https://img.shields.io/badge/Portfolio-24292F?logo=vercel&logoColor=white&style=for-the-badge)](https://baredev.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white&style=for-the-badge)](mailto:barekegnn@gmail.com)
 
 ---
