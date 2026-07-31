@@ -79,7 +79,7 @@ Full-stack developer with expertise in building production-grade applications us
 
 | Tech Stack | Key Features | Impact |
 |-----------|-------------|--------|
-| 🔹 Progressive Web App (PWA)<br>🔹 React Frontend<br>🔹 Node.js Backend<br>🔹 Offline-capable | ✨ Course-based learning modules<br>✨ Past exam repository (2013-2017)<br>✨ AI-powered study assistant<br>✨ Real-time mock exams<br>✨ Mobile-first design | 🎯 1000+ active students<br>📈 Improved academic performance |
+| 🔹 Progressive Web App (PWA)<br>🔹 React Frontend<br>🔹 Node.js Backend<br>🔹 Offline-capable | ✨ Course-based learning modules<br>✨ Past exam repository (2013-2017)<br>✨ AI-powered study assistant<br>✨ Real-time mock exams<br>✨ Mobile-first design | 🎯 2000+ active students<br>📈 Improved academic performance |
 
 **🔗 Live Demo:** [hu-freshman.vercel.app](https://hu-freshman.vercel.app/?refresh=1)
 
@@ -109,7 +109,7 @@ Full-stack developer with expertise in building production-grade applications us
 
 | Tech Stack | Key Features | Impact |
 |-----------|-------------|--------|
-| 🔹 React / TypeScript<br>🔹 Node.js Backend<br>🔹 Real-time Database<br>🔹 Scalable Architecture | ✨ Peer-to-peer Q&A system<br>✨ Reputation & ranking system<br>✨ Real-time notifications<br>✨ Community engagement tools<br>✨ Advanced search & filtering<br>
+| 🔹 React / TypeScript<br>🔹 Node.js Backend<br>🔹 Real-time Database<br>🔹 Scalable Architecture | ✨ Peer-to-peer Q&A system<br>✨ Reputation & ranking system<br>✨ Real-time notifications<br>✨ Community engagement tools<br>✨ Advanced search & filtering
 
 **🔗 Live Demo:** [hu-connect.vercel.app](https://hu-connect.vercel.app/)
 
