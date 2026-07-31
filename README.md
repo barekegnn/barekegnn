@@ -109,7 +109,7 @@ Full-stack developer with expertise in building production-grade applications us
 
 | Tech Stack | Key Features | Impact |
 |-----------|-------------|--------|
-| 🔹 React / TypeScript<br>🔹 Node.js Backend<br>🔹 Real-time Database<br>🔹 Scalable Architecture | ✨ Peer-to-peer Q&A system<br>✨ Reputation & ranking system<br>✨ Real-time notifications<br>✨ Community engagement tools<br>✨ Advanced search & filtering
+| 🔹 React / TypeScript<br>🔹 Node.js Backend<br>🔹 Real-time Database<br>🔹 Scalable Architecture | ✨ Peer-to-peer Q&A system<br>✨ Reputation & ranking system<br>✨ Real-time notifications<br>✨ Community engagement tools<br>✨ Advanced search & filtering<br>  | 🎯 strong and Supportive Community |
 
 **🔗 Live Demo:** [hu-connect.vercel.app](https://hu-connect.vercel.app/)
 
