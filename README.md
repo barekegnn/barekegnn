@@ -20,7 +20,7 @@
 ---
 
 ### 💬 Dynamic Status
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&center=true&vCenter=true&width=900&lines=Building+scalable+MERN+applications;Creating+production-grade+solutions;Transforming+ideas+into+reality;Open+to+collaborations+%26+innovation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&center=true&vCenter=true&width=900&lines=Building+scalable+Full+Stack+applications;Creating+production-grade+solutions;Transforming+ideas+into+reality;Open+to+collaborations+%26+innovation" />
 
 </div>
 
