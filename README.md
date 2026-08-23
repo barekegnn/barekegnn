@@ -4,7 +4,7 @@
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif" alt="Profile Banner" width="500"/>
 
 # 👋 Barekegn Asefa
-### 🚀 Full-Stack Developer | MERN Specialist | Tech Innovator
+### 🚀 Full-Stack Developer | Backend Specialist
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/barekegn-asefa-346b46247)
 [![Portfolio](https://img.shields.io/badge/Portfolio-24292F?logo=vercel&logoColor=white&style=for-the-badge)](https://baredev.vercel.app/)
