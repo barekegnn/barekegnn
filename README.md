@@ -197,23 +197,6 @@ Full-stack developer with expertise in building production-grade applications us
 
 </div>
 
----
-
-## 💡 Interests & Passions
-
-<div align="center">
-
-| Interest | Description |
-|----------|-------------|
-| 📚 **Reading** | Exploring technology and business literature |
-| 🏃‍♂️ **Fitness** | Regular exercise for mental clarity and wellness |
-| 🗣️ **Networking** | Building meaningful connections in tech community |
-| 🤖 **AI & Innovation** | Exploring emerging technologies and applications |
-| 🌍 **Social Impact** | Using technology to solve real-world problems |
-
-</div>
-
----
 
 <div align="center">
 
