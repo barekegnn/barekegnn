@@ -204,7 +204,7 @@ Full-stack developer with expertise in building production-grade applications us
 
 **"Great code is not just about functionality—it's about creating lasting impact."**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1500&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;MERN+Specialist;Tech+Innovator;Problem+Solver" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1500&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Backend+Specialist;Problem+Solver" />
 
 ![Profile Views](https://komarev.com/ghpvc/?username=barekegnn&color=blue&style=flat-square)
 
