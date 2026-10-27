@@ -28,7 +28,7 @@
 
 ## 🎯 Professional Summary
 
-Full-stack developer with expertise in building production-grade applications using modern tech stacks. Passionate about creating scalable, user-centric solutions that solve real-world problems. Strong background in MERN stack development with focus on best practices, clean architecture, and performance optimization.
+Full-stack developer with expertise in building production-grade applications using modern tech stacks. Passionate about creating scalable, user-centric solutions that solve real-world problems. Strong background in full stack development with focus on best practices, clean architecture, and performance optimization.
 
 **Core Competencies:**
 - 🏗️ Full-stack architecture design & implementation
